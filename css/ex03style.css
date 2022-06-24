@@ -1,12 +1,35 @@
+/* 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀FOR CHECKING BOX-LAYOUT🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀 */
+
 *{
     outline:  red solid 1px;
 }
 
-html *{
-    box-sizing: border-box;
-    font-family: "メイリオ", "Regular";
+/* 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀COMMON BASIC-PARTS🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀 */
+
+*{
+    background-color: #F0F0F0;
 }
 
-.wrapper{
-    max-width: 1000px;
+#wrapper{
+    box-sizing: border-box;
+    font-family: "メイリオ", "Regular";
+    max-width:max-content;
+    margin-right: auto;
+    margin-left: auto;
 }
+
+/* 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀HEADER-PART🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀 */
+
+/* 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀FOOTER-PART🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀 */
+
+/* 🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀MAIN-PART🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀🐀 */
+
+/* 🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭NEWS-PART🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭 */
+
+/* 🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭ABOUT-PART🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭 */
+
+/* 🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭BUSINESS-PART🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭 */
+
+/* 🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭COMPANY-PART🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭 */
+
+
